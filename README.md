@@ -19,6 +19,12 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <a href="#kmjoel-tech">
+        <img src="./img/jquery-1.svg" width="48" height="48" alt="Jquery"/>
+      </a>
+      <br>Jquery
+    </td>
+    <td align="center" width="96">
       <a href="#kmjoel-tech" >
         <img src="./img/react-original.svg" width="48" height="48" alt="React" />
       </a>
@@ -39,7 +45,7 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#kmjoel-tech" >
+      <a href="#kmjoel-tech">
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
