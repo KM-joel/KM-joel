@@ -50,19 +50,19 @@
     </td>
     <td align="center" width="96">
       <a href="#kmjoel-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <a href="#kmjoel-tech">
         <img src="./img/css-3.svg" width="48" height="48" alt="Css" />
       </a>
       <br>Css
     </td>
     <td align="center" width="96">
       <a href="#kmjoel-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="#kmjoel-tech">
+        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
