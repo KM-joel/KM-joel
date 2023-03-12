@@ -1,6 +1,4 @@
-[![](profilek.gif)]
-
-### Hi there 👋
+![](banniere_p.png)
 
 <h2 align="left" id="kmjoel-tech">Favorite Tech</h2>
 
