@@ -1,3 +1,5 @@
+[![](profilek.gif)]
+
 ### Hi there 👋
 
 <h2 align="left" id="kmjoel-tech">Favorite Tech</h2>
