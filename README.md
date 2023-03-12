@@ -1,4 +1,4 @@
-![](banniere_p.png)
+![](banniere_pr.png)
 
 <h2 align="left" id="kmjoel-tech">Favorite Tech</h2>
 
