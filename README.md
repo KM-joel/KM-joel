@@ -14,6 +14,24 @@
     </td>
     <td align="center" width="96">
       <a href="#kmjoel-tech">
+        <img src="./img/odoo.svg" width="48" height="48" alt="Odoo" />
+      </a>
+      <br>Odoo
+    </td>
+    <td align="center" width="96">
+      <a href="#kmjoel-tech">
+        <img src="./img/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#kmjoel-tech">
+        <img src="./img/html-1.svg" width="48" height="48" alt="Html" />
+      </a>
+      <br>Html
+    </td>
+    <td align="center" width="96">
+      <a href="#kmjoel-tech">
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
@@ -32,18 +50,30 @@
     </td>
     <td align="center" width="96">
       <a href="#kmjoel-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#kmjoel-tech">
         <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
+    <td align="center" width="96">
+      <a href="#kmjoel-tech">
+        <img src="./img/css-3.svg" width="48" height="48" alt="Css" />
+      </a>
+      <br>Css
+    </td>
+    <td align="center" width="96">
+      <a href="#kmjoel-tech">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
   </tr>
   <tr>
+    <td align="center" width="96"> 
+        <a href="#kmjoel-tech">
+          <img src="./img/linux-tux-1.svg" width="48" height="48" alt="Linux" />
+        </a>
+        <br>Linux
+    </td>
     <td align="center" width="96"> 
       <a href="#kmjoel-tech">
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
